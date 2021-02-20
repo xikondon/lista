@@ -1,32 +1,23 @@
 #EXTM3U
 
 
-#EXTINF:-1 ,canal locomotion
+#EXTINF:0 group-title="anime" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1129e3db-69e7-4f40-832b-0f0fff744418/d1qrwov-5905c510-30aa-4500-ad6c-809e5b89b960.png/v1/fill/w_600,h_600,q_80,strp/locomotion_by_minino_d1qrwov-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02MDAiLCJwYXRoIjoiXC9mXC8xMTI5ZTNkYi02OWU3LTRmNDAtODMyYi0wZjBmZmY3NDQ0MThcL2QxcXJ3b3YtNTkwNWM1MTAtMzBhYS00NTAwLWFkNmMtODA5ZTViODliOTYwLnBuZyIsIndpZHRoIjoiPD02MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.lKQI0bp9-1zpCRpkWG6EV6zDvkgx6HPc0DC6UH_W8TQ",locomotion
 
 
 http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 
 
-
-#EXTINF:-1 ,canal  american pie 2
-
-
-
+#EXTINF:0 group-title="pelis" tvg-logo="http://3.bp.blogspot.com/_pNqLWJUf6eQ/TMKs0vlQExI/AAAAAAAAA5M/d3MBpKrm-gg/s320/00.jpg",american pie 2
 http://s85.youtaker.com/flv/2018/4-6/mp4398901063cb1374eb05e24d89911076a95d2b50ca85.mp4
 
 
 #EXTINF:-1 ,canal cloverfield paradox
-
-
-
 https://ia800108.us.archive.org/0/items/tcSRREGIO/tcSRREGIO.mp4
 
 
-#EXTINF:-1 ,canal jujuztu kaisen
-
-
+#EXTINF:0 group-title="anime" tvg-logo="https://www.tierragamer.com/wp-content/uploads/2021/01/jujutsu-kaisen-opening-660x400.jpg",jujutzu kaisen
 http://s01.solidfilesusercontent.com/stream/ZTNlMzBiOTBkMjg5NjM3YWMxMDlkMDE4ODlhZjVkYTk5YWI2NzYyZToxbERKM3E6VlVLZlN2VW14TGFjU3Y2WW1xQ3FXbENNWUVR/DGjvRjWkPZpK4.mp4
 
 
-#EXTINF:0 group-title="VOD A LA CARTA" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71caq%2BBv%2BPL._SY445_.jpg",The Cloverfield Paradox
+#EXTINF:0 group-title="pelis" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71caq%2BBv%2BPL._SY445_.jpg",The Cloverfield Paradox
 http://tvpremiumhd.club/lista-gratuita/211519/on/lives.php?id=ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
